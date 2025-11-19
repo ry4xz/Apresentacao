@@ -7,7 +7,12 @@
 ### Analista de Sistemas – Techlise (2023–2024)- Automação de processos internos- Administração e otimização SQL- Projetos de segurança e governança
 ### Estagiário de Suporte – Unipê (2022–2023)- Suporte a usuários e redes
 ---
-## Certificações- Cisco Networking Academy — Redes e Cybersecurity- Google IT Support Professional- Alura — Python, Machine Learning e Segurança da Informação- DIO — Git, Java e SQL- Udemy — Scrum e Kanban- Cloud Computing — AWS e Azure
+## Certificações- 
+Cisco Networking Academy — Redes e Cybersecurity- 
+Google IT Support Professional- 
+Alura — Python, Machine Learning e Segurança da Informação- 
+DIO — Git, Java e SQL- 
+Udemy — Scrum e Kanban- Cloud Computing — AWS e Azure
 ---
 ## Projetos em Destaque- Sistema de Auditoria de Segurança em Python- Monitor de Rede e Hosts (Web + Python)- Classificador de Tickets de Suporte (ML)- Automação de processos internos usando Python + SQL
 ---
